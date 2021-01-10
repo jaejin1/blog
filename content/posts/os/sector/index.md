@@ -7,7 +7,7 @@ author: "Jaejin"
 authorLink: "https://jaejin1.github.io"
 description: "sector란 물리 디스크에 입출력을 요청하는 최소 단위이다."
 
-tags: ["os", "linux", "setor"]
+tags: ["os", "linux", "sector"]
 categories: ["os", "linux"]
 
 lightgallery: true
