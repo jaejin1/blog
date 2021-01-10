@@ -257,7 +257,7 @@ theme = "LoveIt"
         # LoveIt NEW | 0.1.1
         enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = "jaejin1-github-io-2"
+        shortname = "https-jaejin1-github-io"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # LoveIt NEW | 0.1.1
