@@ -1,5 +1,8 @@
 #!/bin/bash
 
+git config --global user.name "jaejin1"
+git config --global user.email opiximeo@gmail.com
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
@@ -34,3 +37,6 @@ fi
 git commit -m "$msg"
 
 git push origin master
+
+git config --global user.name "jaejin-flo"
+git config --global user.email jaejin@dreamus.io
