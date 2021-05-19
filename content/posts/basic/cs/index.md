@@ -1,7 +1,7 @@
 ---
 title: "browser에서 url을 입력하면 무슨일이 일어날까?"
 date: 2021-05-10T23:01:00+09:00
-lastmod: 2021-05-10T23:01:00+09:00
+lastmod: 2021-05-19T13:01:00+09:00
 draft: false
 author: "Jaejin"
 authorLink: "https://jaejin1.github.io"
