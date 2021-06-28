@@ -1,7 +1,6 @@
 ---
 title: "tty"
-date: 2021-06-28T23:58:26+08:00
-lastmod: 2020-06-28T23:58:26+08:00
+date: 2021-06-28T13:58:26+08:00
 draft: false
 author: "Jaejin"
 authorLink: "https://jaejin1.github.io"
