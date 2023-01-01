@@ -1,0 +1,86 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - </title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>opiximeo@gmail.com (jaejin)</managingEditor>
+            <webMaster>opiximeo@gmail.com (jaejin)</webMaster><lastBuildDate>Mon, 16 Aug 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>docker file system</title>
+    <link>http://example.org/docker-filesystem/</link>
+    <pubDate>Mon, 16 Aug 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/docker-filesystem/</guid>
+    <description><![CDATA[<p>docker에서 사용하고 있는 Union File System<code>(UFS)</code>에 대해 이해해보자.</p>
+<p>UFS는 쉽게 여러 개의 File System을 하나로 결합하여 취급할 수 있도록 해주는 FS라 보면 된다.</p>]]></description>
+</item><item>
+    <title>tty</title>
+    <link>http://example.org/tty/</link>
+    <pubDate>Mon, 28 Jun 2021 13:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tty/</guid>
+    <description><![CDATA[<p>리눅스의 <code>/dev</code> 디렉토리에서 볼 수 있는 <code>/dev/tty*</code>, <code>/dev/pts/*</code> 파일들이 입출력에 관련된 파일들이며 외부 터미널 장치를 연결할 때, 리눅스에서 가상콘솔을 제공할 때 xterm이나 telnet, ssh 같은 리모트 로그인 프로그램등에 의해 사용된다.</p>]]></description>
+</item><item>
+    <title>Job Control</title>
+    <link>http://example.org/jobcontrol/</link>
+    <pubDate>Wed, 19 May 2021 13:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/jobcontrol/</guid>
+    <description><![CDATA[<p>터미널에서 단순히 한나의 명령을 실행시키는게 아니라 <code>&amp;</code>을 이용해 background job을 생성할 수 있다.</p>]]></description>
+</item><item>
+    <title>browser에서 url을 입력하면 무슨일이 일어날까?</title>
+    <link>http://example.org/cs/</link>
+    <pubDate>Mon, 10 May 2021 23:01:00 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/cs/</guid>
+    <description><![CDATA[<p>웹 browser에 url을 입력하면 무슨일이 일어날지 정리해보자.</p>]]></description>
+</item><item>
+    <title>Database</title>
+    <link>http://example.org/database/</link>
+    <pubDate>Mon, 03 May 2021 23:01:00 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/database/</guid>
+    <description><![CDATA[<p><figure><a class="lightgallery" href="/database/Xkm5CXz.png" title="database" data-thumbnail="/database/Xkm5CXz.png" data-sub-html="<h2>database</h2><p>database</p>">
+        
+    </a><figcaption class="image-caption">database</figcaption>
+    </figure>
+출처 - <a href="https://github.com/donnemartin/system-design-primer#database">https://github.com/donnemartin/system-design-primer#database</a></p>]]></description>
+</item><item>
+    <title>Application Layer</title>
+    <link>http://example.org/applicationlayer/</link>
+    <pubDate>Tue, 02 Mar 2021 23:49:00 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/applicationlayer/</guid>
+    <description><![CDATA[<p><figure><a class="lightgallery" href="/applicationlayer/yB5SYwm.png" title="application layer" data-thumbnail="/applicationlayer/yB5SYwm.png" data-sub-html="<h2>application layer</h2><p>application layer</p>">
+        
+    </a><figcaption class="image-caption">application layer</figcaption>
+    </figure></p>]]></description>
+</item><item>
+    <title>Https</title>
+    <link>http://example.org/https/</link>
+    <pubDate>Sat, 27 Feb 2021 12:49:00 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/https/</guid>
+    <description><![CDATA[<p>HTTP(Hypertext Transfer Protocal)는 Hypertext인 HTML을 전송하기 위한 통신 규약을 의미한다. HTTPS는 보안이 강화된 HTTP라는 것은 누구나 알고 있을 것이다.</p>]]></description>
+</item><item>
+    <title>Goroutines vs Threads</title>
+    <link>http://example.org/goroutinesvsthreads/</link>
+    <pubDate>Fri, 26 Feb 2021 23:49:00 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/goroutinesvsthreads/</guid>
+    <description><![CDATA[<p>go routine과 thread를 비교해보자</p>]]></description>
+</item><item>
+    <title>Proxy</title>
+    <link>http://example.org/reverseproxy/</link>
+    <pubDate>Thu, 25 Feb 2021 23:49:00 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/reverseproxy/</guid>
+    <description><![CDATA[<p>프록시에는 두 가지 종류가 있는데, 포워드 프록시와 리버스 프록시에 대해 알아보자.</p>]]></description>
+</item><item>
+    <title>Load balancer</title>
+    <link>http://example.org/loadbalancer/</link>
+    <pubDate>Thu, 18 Feb 2021 22:23:00 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/loadbalancer/</guid>
+    <description><![CDATA[<p>로드 밸런서는 클라이언트 요청을 애플리케이션 서버 및 데이터베이스와 같은 곳에 리소스를 분배한다.</p>]]></description>
+</item></channel>
+</rss>
