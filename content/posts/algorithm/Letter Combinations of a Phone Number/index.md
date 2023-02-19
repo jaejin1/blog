@@ -9,10 +9,10 @@ authorLink: "https://jaejin1.github.io"
 tags: ["algorithm", "leetcode"]
 categories: ["algorithm"]
 
-# lightgallery: true
+lightgallery: true
 
-# toc:
-#   auto: false
+toc:
+  auto: false
 ---
 
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
