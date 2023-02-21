@@ -15,7 +15,7 @@ toc:
   auto: false
 ---
 
-https://leetcode.com/problems/jump-game-ii/description/
+https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 
 <!--more-->
 
